@@ -1,0 +1,2 @@
+# sms
+### a Sails application
